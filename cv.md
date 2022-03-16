@@ -36,6 +36,7 @@ start();
 - __Udemy__
     - HTML/CSS
     - JavaScript
+- __Rsschool stage
 
 ## Languages
 * __Russian__ - native speaker
