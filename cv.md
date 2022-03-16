@@ -1,4 +1,4 @@
-#Salavat Mulyukov
+# Salavat Mulyukov
 
 ![](/rsschool-cv/image/DSC_1362.JPG)
 
@@ -9,16 +9,16 @@
 * __GitHub:__ [Sal127](https://github.com/Sal127)
 * __nick name:__ @sal127
 
-##About Me
+## About Me
 I have a great desire to become a programmer. My goal is to finish my studies at RSschool and find a job as a programmer. My strengths are the ability to work in a team, discipline and the desire to develop in the field of programming.
 
-##Skills
+## Skills
 * HTML
 * CSS (Bootstrap)
 * JavaScript (Basic)
 * Git
 
-##Code Example
+## Code Example
 ```javascript
 let money;
 function start() {
@@ -30,7 +30,7 @@ function start() {
 start(); 
 ```
 
-##Education
+## Education
 - __Ufa State Aviation Technical University__
     - Specialty engineer
 - __Udemy__
