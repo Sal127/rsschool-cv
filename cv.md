@@ -2,7 +2,7 @@
 
 ![](/rsschool-cv/image/DSC_1362.JPG)
 
-##Contacts
+## Contacts
 * __Location:__ Ufa, Russia
 * __Phone:__ +7 917 362-91-50  
 * __Email:__ mulyukovsalavat@yandex.ru
