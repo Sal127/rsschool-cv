@@ -74,7 +74,7 @@ body {
     }
   }
   .main {
-    margin-bottom: auto;
+    margin-bottom: 30px;
   }
   .main-container {
     display: flex;
