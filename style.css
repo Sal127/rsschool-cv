@@ -81,6 +81,9 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
   }
+  .main_foto {
+      border-radius: 10px;
+  }
   .main-title {
     position: relative;
     padding: 0;
