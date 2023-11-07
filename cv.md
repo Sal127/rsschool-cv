@@ -2,3 +2,9 @@
 
 ![](/rsschool-cv/image/DSC_1362.JPG)
 
+## Contacts
+* __Location:__ Ufa, Russia
+* __Phone:__ +7 917 362-91-50  
+* __Email:__ mulyukovsalavat@yandex.ru
+* __GitHub:__ [Sal127](https://github.com/Sal127)
+* __nick name:__ @Sal127
